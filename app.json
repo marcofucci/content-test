@@ -3,6 +3,7 @@
   "scripts": {
   },
   "env": {
+    "NODE_MODULES_CACHE": "false"
   },
   "formation": {
   },
