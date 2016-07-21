@@ -1,0 +1,22 @@
+# Ignore cache
+/.sass-cache
+/.cache
+/.bundle
+
+# npm
+node_modules
+*.log
+*.gz
+npm-debug.log.*
+
+# Ignore build directories
+.tmp/
+build/
+public/components
+
+# Ignore reports
+coverage/
+test/acceptance/report
+
+# Ignore FSMe font from source control
+assets/fonts/fsme

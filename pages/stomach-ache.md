@@ -1,3 +1,6 @@
+title: Stomach ache
+---
+
 Treating stomach ache at home
 -----------------------------
 
