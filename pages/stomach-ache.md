@@ -3,7 +3,7 @@ title: Stomach ache
 
 Treating stomach ache at home
 -----------------------------
-test2
+test3
 Speak to your pharmacist about medicine to help with:
 
 -   feeling bloated (trapped wind)
