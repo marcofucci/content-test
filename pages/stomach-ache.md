@@ -1,6 +1,6 @@
 title: Stomach ache
 ---
-test
+test2
 Treating stomach ache at home
 -----------------------------
 
