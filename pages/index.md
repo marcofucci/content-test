@@ -1,3 +1,3 @@
-title: Index
-------------
+Index
+-----
 this is a test
