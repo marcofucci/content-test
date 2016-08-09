@@ -1,3 +1,1 @@
-Index
------
-this is a test
+some content
