@@ -1,0 +1,6 @@
+{
+	"title": "Stomach-ache",
+	"sub-title": "Subtitle of the Stomach-ache Page",
+	"left-content": "!file=left-column.md",
+	"right-content": "title\n-----"
+}

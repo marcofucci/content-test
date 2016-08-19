@@ -1,0 +1,6 @@
+{
+	"title": "Index",
+	"sub-title": "Subtitle of the Index Page",
+	"left-content": "!file=left-column.md",
+	"right-content": "title\n-----"
+}
