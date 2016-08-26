@@ -1,6 +1,6 @@
 {
-	"title": "Stomach-ache",
-	"sub-title": "Subtitle of the Stomach-ache Page",
-	"left-content": "!file=left-column.md",
-	"right-content": "title\n-----"
+    "sub-title": "Subtitle of the Stomach-ache Page",
+    "right-content": "title\r\n-----",
+    "title": "Stomach-ache",
+    "left-content": "!file=left-column.md"
 }
