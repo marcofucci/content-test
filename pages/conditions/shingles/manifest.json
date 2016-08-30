@@ -1,6 +1,6 @@
 {
-    "title": "Shingles",
+    "top-content": "!file=top-column.md",
     "sub-title": "",
-    "left-content": "!file=left-column.md",
-    "top-content": "!file=top-column.md"
+    "title": "Shingles",
+    "left-content": "!file=left-column.md"
 }
