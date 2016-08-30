@@ -1,6 +1,6 @@
 {
-    "sub-title": "Most stomach aches aren\u2019t anything serious and will go away after a few days.",
-    "title": "Stomach ache",
+    "left-content": "!file=left-column.md",
     "right-content": "!file=right-column.md",
-    "left-content": "!file=left-column.md"
+    "sub-title": "Most stomach aches aren\u2019t anything serious and will go away after a few days.",
+    "title": "Stomach ache"
 }
