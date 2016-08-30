@@ -1,5 +1,4 @@
-Warts often go away on their own
---------------------------------
+## Warts often go away on their own
 
 You don’t need to do anything about warts. They’ll usually go away
 within 2 years.
@@ -13,8 +12,7 @@ your GP.
 Warts on your vulva, penis or anus are [genital warts] and need
 treatment. Go to a sexual health clinic or see your GP.</strong>
 
-Treating warts that are bothering you
--------------------------------------
+## Treating warts that are bothering you
 
 You can treat warts if they’re bothering you, they keep coming back or
 they’re painful.
@@ -42,8 +40,7 @@ If treatment hasn’t worked or you have a wart on your face, your GP
 might refer you to a skin specialist. Other treatments include minor
 surgery and treatment with laser or light.
 
-How to stop warts spreading
----------------------------
+## How to stop warts spreading
 
 -   wash your hands after touching a wart
 -   don’t bite your nails or suck your fingers with warts on
