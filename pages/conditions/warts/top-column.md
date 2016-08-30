@@ -1,5 +1,4 @@
-Check if you have them
-----------------------
+## Check if you have them
 
 <figure class="card">
 <!--[if gt IE 7]><!--> <img srcset="
