@@ -1,5 +1,4 @@
-Treating stomach ache at home
------------------------------
+## Treating stomach ache at home
 
 Speak to your pharmacist about medicine to help with:
 
@@ -19,8 +18,7 @@ stop any vomiting and diarrhoea.
 
 Find out more about [treating vomiting and diarrhoea.]
 
-See your GP if
---------------
+## See your GP if
 
 -   the pain gets much worse in a short space of time
 -   the pain or bloating won’t go away or keeps coming back
