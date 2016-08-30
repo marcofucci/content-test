@@ -1,10 +1,8 @@
-Speak to your GP as soon as you suspect shingles
-------------------------------------------------
+## Speak to your GP as soon as you suspect shingles
 
 There is medicine your GP can prescribe to speed up your recovery.
 
-How to treat shingles at home
------------------------------
+## How to treat shingles at home
 
 You can buy painkillers to ease shingles pain.
 
@@ -24,8 +22,7 @@ after the rash has gone, but it usually settles in time.
 -   let dressings or plasters stick to the rash
 -   use antibiotic cream — this slows healing
 
-Stay away from certain groups of people if you have shingles
-------------------------------------------------------------
+## Stay away from certain groups of people if you have shingles
 
 Try to avoid:
 
@@ -35,13 +32,11 @@ Try to avoid:
 -   babies less than one month old (unless it is your own baby, as they
     should be protected from the virus by your immune system)
 
-Stay off work or school until the rash scabs
---------------------------------------------
+## Stay off work or school until the rash scabs
 
 Shingles is contagious only while the rash oozes fluid.
 
-Shingles and pregnancy
-----------------------
+## Shingles and pregnancy
 
 If you’re pregnant and get shingles, there is no danger to your
 pregnancy or baby.
@@ -49,8 +44,7 @@ pregnancy or baby.
 If your GP thinks you need medicine, they may speak to a specialist to
 decide whether the benefits of medication outweigh any possible risk.
 
-You can’t get shingles from chickenpox
---------------------------------------
+## You can’t get shingles from chickenpox
 
 You can’t get shingles from someone with shingles or chickenpox.
 
