@@ -1,6 +1,6 @@
 {
+    "left-content": "!file=left-column.md",
     "sub-title": "Hand, foot and mouth disease is a common infection that mostly affects children under 10. It usually clears up by itself, within about a week.",
     "title": "Hand, foot and mouth disease",
-    "top-content": "!file=top-column.md",
-    "left-content": "!file=left-column.md"
+    "top-content": "!file=top-column.md"
 }
