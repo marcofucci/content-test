@@ -1,6 +1,6 @@
 {
-    "title": "Warts and verrucas",
+    "top-content": "!file=top-column.md",
     "sub-title": "",
-    "left-content": "!file=left-column.md",
-    "top-content": "!file=top-column.md"
+    "title": "Warts and verrucas",
+    "left-content": "!file=left-column.md"
 }
