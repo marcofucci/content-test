@@ -1,5 +1,4 @@
-Call 999 or go to <abbr title="Accident and Emergency"> A&E</abbr> if your child has a rash and they:
------------------------------------------------------------------------------------------------------
+## Call 999 or go to <abbr title="Accident and Emergency"> A&E</abbr> if your child has a rash and they:
 
 -   have a stiff neck
 -   are bothered by light
