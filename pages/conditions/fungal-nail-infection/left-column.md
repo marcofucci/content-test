@@ -4,8 +4,7 @@ on your finger nails too.
 If you have diabetes you should see a foot specialist because any foot
 injury [can lead to complications.]
 
-Treating fungal nail infections at home
----------------------------------------
+## Treating fungal nail infections at home
 
 Small fungal nail infections may not need medication.
 
@@ -25,8 +24,7 @@ pharmacist. They may suggest:
 The infection is cured when you see healthy nail growing back at the
 base.
 
-Treatment from your GP
-----------------------
+## Treatment from your GP
 
 Your GP can prescribe you tablets if your infection is severe or has
 spread to other nails.
@@ -46,8 +44,7 @@ conditions. They can damage your liver.
 Badly infected nails sometimes need to be removed. It’s a small
 procedure done under local anaesthetic.
 
-Other treatment
----------------
+## Other treatment
 
 Laser treatment uses laser to destroy the fungus.
 
@@ -55,8 +52,7 @@ You’ll have to pay for it as it’s not covered by the NHS. It can be
 expensive. There’s little evidence to show it’s a long-term cure as most
 studies only follow patients for three months.
 
-Preventing fungal nail infection
---------------------------------
+## Preventing fungal nail infection
 
 Fungal nail infections develop when your feet are constantly warm and
 damp. You’re more likely to get an infection if you wear trainers for a
