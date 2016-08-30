@@ -1,5 +1,4 @@
-Treating headaches at home
---------------------------
+## Treating headaches at home
 
 You can simply wait until the headache goes away or take painkillers
 like paracetamol or ibuprofen. You can buy these over the counter.
@@ -12,8 +11,7 @@ This will also help with headaches:
 
 Headaches can last between 30 minutes and several hours.
 
-What causes headaches
----------------------
+## What causes headaches
 
 You can get headaches because of something else, for example cold, flu,
 bad posture or stress.
@@ -21,8 +19,7 @@ bad posture or stress.
 Some women get headaches when they’re on the pill or during their period
 or menopause.
 
-See your GP if
---------------
+## See your GP if
 
 -   you get pain on [chewing or combing your hair] (get an
     urgent appointment)

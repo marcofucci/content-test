@@ -1,5 +1,4 @@
-Check if you have shingles
---------------------------
+## Check if you have shingles
 
 The first sign of shingles can be:
 

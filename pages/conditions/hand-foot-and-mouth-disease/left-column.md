@@ -1,8 +1,7 @@
 If you’re unsure it’s hand, foot and mouth disease, look at other
 [childhood rashes.]
 
-How to treat hand, foot and mouth disease at home
--------------------------------------------------
+## How to treat hand, foot and mouth disease at home
 
 -   drink fluids to avoid dehydration (avoid acidic drinks, like
     fruit juice)
@@ -14,16 +13,14 @@ You can buy mouth ulcer gels, sprays, and mouthwashes to ease the
 blisters. Always check they are suitable for children and give the
 correct dose.
 
-See a GP if
------------
+## See a GP if
 
 -   your child isn’t better after a week
 -   your child is dehydrated — they’re not weeing as often as usual
 -   you’re concerned about your child’s symptoms
 -   you’re pregnant and get hand, foot and mouth disease
 
-How to stop hand, foot and mouth disease spreading
---------------------------------------------------
+## How to stop hand, foot and mouth disease spreading
 
 Hand, foot and mouth disease spreads easily.
 
@@ -32,8 +29,7 @@ unwell. Generally, there’s no need to keep them off until the blisters
 scab. However, check with your school or nursery as they may have their
 own guidance.
 
-Hand, foot and mouth disease in pregnancy
------------------------------------------
+## Hand, foot and mouth disease in pregnancy
 
 It’s best to avoid close contact with anyone who has hand, foot and
 mouth disease.

@@ -1,5 +1,4 @@
-Check if it’s head lice
------------------------
+## Check if it’s head lice
 
 figure class="card">
 <!--[if gt IE 7]><!--> <img srcset="

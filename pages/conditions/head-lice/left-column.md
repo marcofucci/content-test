@@ -7,8 +7,7 @@ The only way to be sure someone has head lice is by finding live lice or
 eggs. You can do this by combing their hair with a special fine-toothed
 comb (detection comb). You can buy these online or at pharmacies.
 
-How to get rid of head lice
----------------------------
+## How to get rid of head lice
 
 You can treat head lice without seeing your GP.
 
@@ -53,8 +52,7 @@ Follow the instructions on the pack, but generally you:
 -   comb the whole head of hair, from the roots to the end of the hair
 -   repeat every few days for 2 weeks
 
-You can’t prevent head lice
----------------------------
+## You can’t prevent head lice
 
 There’s nothing you can do to prevent head lice. You can reduce the risk
 of lice spreading by avoiding head-to-head contact.

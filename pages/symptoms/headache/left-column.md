@@ -1,5 +1,4 @@
-Call 999 or go to <abbr title="Accident and Emergency"> A&E</abbr> if you
--------------------------------------------------------------------------
+## Call 999 or go to <abbr title="Accident and Emergency"> A&E</abbr> if you
 
 You hurt your head badly, for example from a fall or accident.
 
