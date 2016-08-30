@@ -1,0 +1,4 @@
+-   <a href="#emergency-info" class="link__reverse-polarity">Emergency information</a>
+-   <a href="#rash-with-fever" class="link__reverse-polarity">Rash with fever</a>
+-   <a href="#rash-with-itching" class="link__reverse-polarity">Rash with itching</a>
+-   <a href="#rash-without-fever-or-itching" class="link__reverse-polarity">Rash without fever or itching</a>

@@ -1,6 +1,6 @@
 {
-    "sub-title": "Subtitle of the Stomach-ache Page",
-    "right-content": "title\r\n-----",
-    "title": "Stomach-ache",
-    "left-content": "!file=left-column.md"
+    "title": "Stomach ache",
+    "sub-title": "Most stomach aches aren’t anything serious and will go away after a few days.",
+    "left-content": "!file=left-column.md",
+    "right-content": "!file=right-column.md"
 }
