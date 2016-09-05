@@ -1,3 +1,4 @@
+warning this is in beta
 If you’re unsure it’s hand, foot and mouth disease, look at other
 [childhood rashes.]
 
